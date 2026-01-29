@@ -1,1 +1,2 @@
-# module_vday
+# Finite automat assigments
+
