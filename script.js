@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     return `<span style='position:absolute;left:${x}px;top:${y}px;font-size:2.2rem;color:#d72660;z-index:1;'>❤️</span>`;
                 }).join('')}
             </div>
-            <h1 style="color:#d72660;font-size:2.3rem;text-align:center;margin-top:32px;">Ooooo, älskar dig <3 </h1>
+            <h1 style="color:#d72660;font-size:2.3rem;text-align:center;margin-top:32px;">Ooooo, älskar dig Isbjörnisss <3 </h1>
         </div>
         `;
     });
