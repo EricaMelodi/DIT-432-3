@@ -1,1 +1,2 @@
-# DIT-432-3
+# Finite automat assigments
+
